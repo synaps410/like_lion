@@ -1,0 +1,14 @@
+footer{
+    text-align: center;
+    background-color:dimgray;
+    color: rgb(241, 241, 229);
+    font-size: 15px;
+}
+.mainbox{
+    width:610px;
+    margin-right:auto;
+    margin-left: auto;
+    border: 1px solid dimgray;
+    text-align: right;
+    padding: 30px;
+}
