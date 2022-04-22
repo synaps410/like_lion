@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
-p {
-    font-family: 'Montserrat';
-}
 
-.mainbox, h2, h3 {
-    font-family: 'Do Hyeon';
+* {
+    font-family: 'Montserrat';
 }
 
 body,h1,h2 {
@@ -27,9 +23,9 @@ h1 {
 
 
 h2 {
-    font-size:25px;
+    font-size:20px;
     color:#282828;
-    font-weight:bold;
+    font-weight: lighter;
     margin-bottom: 16px;
     border-bottom: 1px solid #ebebeb;
     padding-bottom: 5px;
@@ -57,7 +53,7 @@ h2 {
 }
 
 section {
-    margin-bottom:25px;
+    margin-bottom:24px;
 }
 
 .float-wrap {
@@ -110,17 +106,4 @@ footer {
 
 .sns-wrap {
     text-align: right;
-}
-
-.mv-img {
-    width: 320px;
-    height: 480px;
-}
-.poster {
-    text-align: center;
-}
-
-.mv-text{
-    text-align: center;
-    color:#7c7c7c;
 }
